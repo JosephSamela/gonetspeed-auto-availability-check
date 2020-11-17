@@ -1,10 +1,14 @@
-#
+# gonetspeed-auto-availability-check
 
 My internet is slow. There are only two ISPs in town. What's a guy to do?
 
 Seriously, my options are Comcast (slow) and Frontier (slower). Currently I have Comcast and my upload speeds are ~3-5mbps. I called to ask about changing plans -- but even if I pay an extra $20/month -- they can only offer 10mbps upload. 
 
+![](screenshot2.JPG)
+
 Fortunately, there's a new ISP on the horizon! But they don't service my area yet. [gonetspeed.com](https://gonetspeed.com/) promises to run fiber to your house and give you 150mbps SYMMETRICAL for $50/month! This is an absolute game-changer, if only they serviced my area.
+
+![](screenshot1.JPG)
 
 On the website, there is a form to check availability at your address. After putting in my info, it says they don't currently service my area.However, below that is also says...
 
